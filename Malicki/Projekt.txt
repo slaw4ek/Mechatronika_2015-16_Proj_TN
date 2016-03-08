@@ -1,0 +1,4 @@
+﻿projekt urządzenia diagnostycznego zdolnego do komunikacji
+z pojazdami:
+-Mazda 626 GE (1993)
+-Mazda 626 GF (1997)
