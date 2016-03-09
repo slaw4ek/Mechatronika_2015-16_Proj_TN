@@ -1,0 +1,10 @@
+﻿Projekt systemu aktywnej aerodynamiki samochodowej.
+
+Cel projektu:
+Zaprojektowanie i zamodelowanie układu mechatronicznego wspomagającego prowadzenie, poprzez wykorzystanie tzw. aktywnej aerodynamiki.
+Zadaniem mechanizmu jest regulacja kąta natarcia spojlera w celu zwiększenia stabilności przy dużych prędkościach oraz skrócenia czasu reakcji pojazdu przy dynamicznej jeździe (hamulec aerodynamiczny).
+
+Założenia:
+- Układ ma pobierać aktualne dane o prędkości pojazdu i położeniu pedału hamulca,
+- Na podstawie zebranych danych regulowany będzie kąt natarcia spojlera,
+- Maksymalna prędkość pojazdu - 300 km/h.

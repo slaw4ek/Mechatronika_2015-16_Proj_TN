@@ -1,0 +1,7 @@
+﻿Temat projektu: Automatyczne sterowanie światłami
+
+Grupa projektowa: Dariusz Han, Krzysztof Mączka, Przemysław Motała
+
+Celem projektu jest zaprojektowanie sterownika do automatycznej obsługi świateł. Projekt zakłada automatyczne zapalanie świateł do jazdy dziennej po odpaleniu silnika samochodu, a następnie załączanie bądź wyłączanie świateł mijania w zależności od warunków atmosferycznych. Dodatkowo zakładamy instalację funkcji inteligentnych świateł drogowych, a także rozbudowanie projektu o nowe możliwości.
+
+Prosimy o wyrażenie opinii odnośnie wybranego przez nas tematu projektu oraz ewentualne sugestie co do sposobu jego realizacji.
