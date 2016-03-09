@@ -1,37 +1,37 @@
-Tytu³ projektu:
-"System ostrzegaj¹cy o awaryjnym hamowaniu"
+ï»¿TytuÅ‚ projektu:
+"System ostrzegajÄ…cy o awaryjnym hamowaniu"
 
-Grupa projektowa: S³awomir Wawrzyniak
+Grupa projektowa: SÅ‚awomir Wawrzyniak
 
 Cel projektu:
 
-Zapoznanie siê z dzia³aniem, obs³ug¹, programowaniem oraz implementacj¹ w rzeczywistym uk³adzie, sieci opartej na protokole CAN.
+Zapoznanie siÄ™ z dziaÅ‚aniem, obsÅ‚ugÄ…, programowaniem oraz implementacjÄ… w rzeczywistym ukÅ‚adzie, sieci opartej na protokole CAN.
 
 
-Za³o¿enia projektowe:
+ZaÅ‚oÅ¼enia projektowe:
 
-System sk³adaj¹cy siê z dwóch mikrokontrolerów:
+System skÅ‚adajÄ…cy siÄ™ z dwÃ³ch mikrokontrolerÃ³w:
 
 TMS320F2812 (posiadany zestaw uruchomieniowy)
-STM32F407G (wbudowany w zestaw uruchomieniowy Discovery - do zakupu ~109 z³)
+STM32F407G (wbudowany w zestaw uruchomieniowy Discovery - do zakupu ~109 zÅ‚)
 
-Dwóch transcieverów CAN,
+DwÃ³ch transcieverÃ³w CAN,
 do wyboru np.:
 SN65HVD230 (Texas Inst.)
 SN65HVD233 (Texas Inst.)
 MEP2551 (Microchip) - 4,86 PLN/szt.
 
 Akcelerometru, np:
-LIS244AL (St microel.) - 16 z³/szt.
-lub wbudowanego w p³ytê uruchomieniow¹ STM Discovery
-Akcelerometr jednoosiowy przeci¹¿enie mierzone od 0,7g do 1,5g
+LIS244AL (St microel.) - 16 zÅ‚/szt.
+lub wbudowanego w pÅ‚ytÄ™ uruchomieniowÄ… STM Discovery
+Akcelerometr jednoosiowy przeciÄ…Å¼enie mierzone od 0,7g do 1,5g
 
 
-Dzia³anie sytemu:
+DziaÅ‚anie sytemu:
 
-Akcelerometr umieszczony na œcianie grodziowej silnika, mikrokontroler STM32F4 zbiera dane z akceleromeru. 
-Mikrokontroler TMS320F2812 w baga¿niku samochodu, 2 wyjœcia mikrokontrolera pod³¹czone do kierunkowskazów. 
-Mikrokontrolery po³¹czone ze sob¹ sieci¹ CAN. 
-Mikrokontroler 1. przesy³a informacjê o przekroczeniu przeci¹¿enia 0,7g do mikrokontrolera 2., ten zaœ uruchamia œwiat³a awaryjne, z czêstotliwoœci¹ 3 Hz.
+Akcelerometr umieszczony na Å›cianie grodziowej silnika, mikrokontroler STM32F4 zbiera dane z akceleromeru. 
+Mikrokontroler TMS320F2812 w bagaÅ¼niku samochodu, 2 wyjÅ›cia mikrokontrolera podÅ‚Ä…czone do kierunkowskazÃ³w. 
+Mikrokontrolery poÅ‚Ä…czone ze sobÄ… sieciÄ… CAN. 
+Mikrokontroler 1. przesyÅ‚a informacjÄ™ o przekroczeniu przeciÄ…Å¼enia 0,7g do mikrokontrolera 2., ten zaÅ› uruchamia Å›wiatÅ‚a awaryjne, z czÄ™stotliwoÅ›ciÄ… 3 Hz.
 
-G³ówne zadanie: opanowanie standardu CAN
+GÅ‚Ã³wne zadanie: opanowanie standardu CAN
