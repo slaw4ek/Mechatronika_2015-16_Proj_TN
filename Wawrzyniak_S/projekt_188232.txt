@@ -1,7 +1,7 @@
 ﻿Tytuł projektu:
 "System ostrzegający o awaryjnym hamowaniu"
 
-Grupa projektowa: Sławomir Wawrzyniak
+Grupa projektowa: Sławomir Wawrzyniak 188232
 
 Cel projektu:
 
